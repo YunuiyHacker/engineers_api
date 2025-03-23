@@ -1,0 +1,7 @@
+ktor:
+    application:
+        modules:
+            - yunuiy_hacker.ryzhaya_tetenka.ApplicationKt.module
+    deployment:
+        port: 1234
+Л
